@@ -9,41 +9,41 @@ The purpose of this project is to implement image classification task on MNIST d
 ## K-NN
 
 ### K Value vs. Error Rate
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-Value-vs-Error-Rate.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-Value-vs-Error-Rate.png" width="300" height="300" alt="K Value vs. Error Rate" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-Value-vs-Error-Rate.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-Value-vs-Error-Rate.png" width="600" height="300" alt="K Value vs. Error Rate" />
 
 ### Classification Report
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-NN-Classification-Report.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-NN-Classification-Report.png" width="300" height="300" alt="Classification Report" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-NN-Classification-Report.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-NN-Classification-Report.png" width="600" height="300" alt="Classification Report" />
 
 ### Confusion Matrix
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-NN-Confusion-Matrix.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-NN-Confusion-Matrix.png" width="300" height="300" alt="Confusion Matrix" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-NN-Confusion-Matrix.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/K-NN-Confusion-Matrix.png" width="600" height="300" alt="Confusion Matrix" />
 
 ## Logistic Regression
 
 ### Classification Report
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/Logistic-Regression-Classification-Report.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/Logistic-Regression-Classification-Report.png" width="300" height="300" alt="Classification Report" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/Logistic-Regression-Classification-Report.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/Logistic-Regression-Classification-Report.png" width="600" height="300" alt="Classification Report" />
 
 ### Confusion Matrix
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/Logistic-Regression-Confusion-Matrix.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/Logistic-Regression-Confusion-Matrix.png" width="300" height="300" alt="Confusion Matrix" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/Logistic-Regression-Confusion-Matrix.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/Logistic-Regression-Confusion-Matrix.png" width="600" height="300" alt="Confusion Matrix" />
 
 ## SVM
 
 ### Classification Report
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Classification-Report.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Classification-Report.png" width="300" height="300" alt="Classification Report" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Classification-Report.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Classification-Report.png" width="600" height="300" alt="Classification Report" />
 
 ### Confusion Matrix
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Confusion-Matrix.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Confusion-Matrix.png" width="300" height="300" alt="Confusion Matrix" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Confusion-Matrix.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Confusion-Matrix.png" width="600" height="300" alt="Confusion Matrix" />
 
 ### C vs. Accuracy
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-Accuracy.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-Accuracy.png" width="300" height="300" alt="C vs. Accuracy" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-Accuracy.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-Accuracy.png" width="600" height="300" alt="C vs. Accuracy" />
 
 ### C vs. Accuracy - l1 Penalty
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-Accuracy-l1-penalty.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-Accuracy-l1-penalty.png" width="300" height="300" alt="C vs. Accuracy - l1 Penalty" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-Accuracy-l1-penalty.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-Accuracy-l1-penalty.png" width="600" height="300" alt="C vs. Accuracy - l1 Penalty" />
 
 ### C vs. gamma
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-gamma.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-gamma.png" width="300" height="300" alt="C vs. gamma" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-gamma.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-C-vs-gamma.png" width="600" height="300" alt="C vs. gamma" />
 
 ### Grid Search Classification Report
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Grid-Search-Classification-Report.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Grid-Search-Classification-Report.png" width="300" height="300" alt="Grid Search Classification Report" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Grid-Search-Classification-Report.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Grid-Search-Classification-Report.png" width="600" height="300" alt="Grid Search Classification Report" />
 
 ### Grid Search Confusion Matrix
-<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Grid-Search-Confusion-Matrix.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Grid-Search-Confusion-Matrix.png" width="300" height="300" alt="Grid Search Confusion Matrix" />
+<img src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Grid-Search-Confusion-Matrix.png" data-canonical-src="https://github.com/alansary/Image-Classification-using-K-NN-Logistic-Regession-and-SVM/blob/main/images/SVM-Grid-Search-Confusion-Matrix.png" width="600" height="300" alt="Grid Search Confusion Matrix" />
